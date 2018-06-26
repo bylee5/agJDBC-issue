@@ -31,7 +31,7 @@ public final class DriverInfo {
     /**
      * The driver version.
      */
-    public static final String DRIVER_VERSION = "1.4.2";
+    public static final String DRIVER_VERSION = "1.4.2.1";
 
     /**
      * The driver full name.

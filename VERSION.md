@@ -1,4 +1,8 @@
-1.4.2 / 2010-01-11
+1.4.2.1 / 2018-06-26
+* fix: Import new pgJDBC.jar after adding the command complete pattern code to pgJDBC 42.2.2.jre7
+* test: Add a test case related to the command complete pattern for Cypher
+
+1.4.2 / 2018-01-11
 * feat: Support `getKeys()` and `getTypedValue()`
 
 1.4.1 / 2017-12-19
